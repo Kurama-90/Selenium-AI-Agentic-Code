@@ -1,4 +1,4 @@
-# AgenticAIBot — Technical Overview
+# Selenium-AI-Agentic
 
 ## Objective
 Transform natural language instructions into automated browser interactions using Selenium, powered by Google Gemini’s generative language API.
@@ -36,8 +36,9 @@ Transform natural language instructions into automated browser interactions usin
 
 ---
 
-
+<p align="center">
 ![Diagramme d'architecture](https://drive.google.com/uc?export=view&id=1kx8bAUrDhHS5gGwgMODPy44E3gA3SzOH)
+</p>
 
 ---
 
