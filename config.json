@@ -1,0 +1,6 @@
+{
+    "GEMINI_API_KEY": "Your GEMINI API KEY",
+    "max_retries": 3,
+    "timeout": 30,
+    "safe_mode": true
+}
