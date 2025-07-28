@@ -36,6 +36,10 @@ Transform natural language instructions into automated browser interactions usin
 
 ---
 
+
+![Diagramme d'architecture](https://drive.google.com/uc?export=view&id=1kx8bAUrDhHS5gGwgMODPy44E3gA3SzOH)
+
+---
+
 This design enables flexible, AI-driven browser automation suitable for a wide range of tasks requiring natural language control.
 
-[![](https://img.plantuml.biz/plantuml/svg/TP51QWCn34Nt0tC7aVrS88kIQLD2Tg4b1r0TCJ7Oif7bfhbzDPusWPIkZEod_x-iJL4KhJ7q7JfD0iT2qdVPBhtp6LbXDKx4LetxvwGhm09sFY2xbAP0iAFesSDus3TkAH_GbxEaI5lndoIBcgHBC-sxsHo6fzbW3Q-iLZ5g5GmGaAUA4u5BCIAV-iwWcLrCrl1EV89isbdXulLy1tzI3R_2RsIIR0s1sDS8dejATUeJbvji8myeXVvvNr9Rp2zoLM-v2XIbF7nSX_aqVE7-k5DhCqdZRSIxyB6fRdt90QyWL6fGiCMGIB9FsjYORLtV)](https://editor.plantuml.com/uml/TP51QWCn34Nt0tC7aVrS88kIQLD2Tg4b1r0TCJ7Oif7bfhbzDPusWPIkZEod_x-iJL4KhJ7q7JfD0iT2qdVPBhtp6LbXDKx4LetxvwGhm09sFY2xbAP0iAFesSDus3TkAH_GbxEaI5lndoIBcgHBC-sxsHo6fzbW3Q-iLZ5g5GmGaAUA4u5BCIAV-iwWcLrCrl1EV89isbdXulLy1tzI3R_2RsIIR0s1sDS8dejATUeJbvji8myeXVvvNr9Rp2zoLM-v2XIbF7nSX_aqVE7-k5DhCqdZRSIxyB6fRdt90QyWL6fGiCMGIB9FsjYORLtV)
