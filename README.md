@@ -37,7 +37,7 @@ Transform natural language instructions into automated browser interactions usin
 ---
 
 <p align="center">
-![Diagramme d'architecture](https://drive.google.com/uc?export=view&id=1kx8bAUrDhHS5gGwgMODPy44E3gA3SzOH)
+  <img src="https://drive.google.com/uc?export=view&id=1kx8bAUrDhHS5gGwgMODPy44E3gA3SzOH" alt="Diagramme d'architecture" />
 </p>
 
 ---
