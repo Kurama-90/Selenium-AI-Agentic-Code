@@ -39,3 +39,27 @@ Transform natural language instructions into automated browser interactions usin
 This design enables flexible, AI-driven browser automation suitable for a wide range of tasks requiring natural language control.
 
 
++-------------------+      HTTP Request       +----------------------+
+|                   | ---------------------> |                      |
+|  User (CLI input) |                        | Google Gemini API     |
+|                   | <--------------------- | (Generative Language) |
++-------------------+      JSON Response     +----------------------+
+         |                                              ^
+         |                                              |
+         |                              Instructions     |
+         v                                              |
++-------------------+                                  |
+|                   | <-------------------------------+
+|  AgenticAIBot     | - Parse & Execute Selenium cmds
+|  (Local Process)  | 
+|                   | -- Controls ChromeDriver via Selenium
++-------------------+
+         |
+         v
++-------------------+
+|                   |
+| Chrome Browser     |
+| (Automated by     |
+| Selenium WebDriver)|
++-------------------+
+
