@@ -1,5 +1,9 @@
 # Selenium-AI-Agentic
 
+
+https://github.com/user-attachments/assets/2798c987-27d1-4624-899d-9632677df63f
+
+
 ## Objective
 Transform natural language instructions into automated browser interactions using Selenium, powered by Google Gemini’s generative language API.
 
